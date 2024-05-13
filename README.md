@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 <h1 align="center">Hi 👋, I'm Preksha Jain</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">An IT enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preksha2135&label=Profile%20views&color=0e75b6&style=flat" alt="preksha2135" /> </p>
 
-- 🌱 I’m currently learning **C# and node.js**
+- 🌱 I’m currently learning **Machine learning and node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Preksha2135](https://github.com/Preksha2135)
 
