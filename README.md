@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preksha2135&label=Profile%20views&color=0e75b6&style=flat" alt="preksha2135" /> </p>
 
-- 🌱 I’m currently learning **Machine learning and node.js**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Preksha2135](https://github.com/Preksha2135)
 
